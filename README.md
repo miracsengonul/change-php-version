@@ -7,6 +7,9 @@
 
 > You can quickly change your PHP version.
 
+![alt text](assets/screenshot.png)
+
+
 ## Install
 
 ```sh
