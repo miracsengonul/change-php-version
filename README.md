@@ -10,7 +10,7 @@
 ![alt text](assets/screenshot.png)
 
 
-## Install
+## Install 🐧
 
 ```sh
 sudo apt-get install zenity
