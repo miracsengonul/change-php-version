@@ -10,6 +10,12 @@
 ![alt text](assets/screenshot.png)
 
 
+![downloads](https://img.shields.io/github/downloads/miracsengonul/change-php-version/total)
+![followers](https://img.shields.io/github/followers/miracsengonul?style=plastic)
+![activity](https://img.shields.io/github/commit-activity/m/miracsengonul/change-php-version?style=plastic)
+![last_commit](https://img.shields.io/github/last-commit/miracsengonul/change-php-version?style=plastic)
+
+
 ## Install 🐧
 
 ```sh
